@@ -7,8 +7,8 @@ A multi-stage AI pipeline that takes a simple creative prompt and transforms it 
 ## 🚀 Features
 
 - **Prompt Expansion**: Enhances user input using a local LLM.
-- **2D Image Generation**: Converts the expanded prompt into an image (Openfabric App ID: `f0997a01-d6d3-a5fe-53d8-561300318557`).
-- **3D Image Conversion**: Simulates 3D from the 2D image (Openfabric App ID: `69543f29-4d41-4afc-7f29-3d51591f11eb`).
+- **2D Image Generation**: Converts the expanded prompt into an image 
+- **3D Image Conversion**: Simulates 3D from the 2D image 
 - **Streamlit UI**: Easy-to-use frontend with visual feedback for each generation stage.
 
 ---
